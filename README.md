@@ -31,7 +31,7 @@ Atom is a lightweight, multi-threaded, and modular brute-force framework designe
 ### Linux / macOS
 
 ```bash
-git clone https://github.com/yourusername/atom.git
+git clone https://github.com/tamim404/Atom_Brute_Forcer.git
 cd atom
 pip3 install -r requirements.txt
 python3 atom.py --help
